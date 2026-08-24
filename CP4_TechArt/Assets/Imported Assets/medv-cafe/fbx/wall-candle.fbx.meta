@@ -3,7 +3,17 @@ guid: 35c698e4536ccc645a0a67929f73225a
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal013
+    second: {fileID: 2100000, guid: b7814d286036106418efc54556045cbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candle-aura
+    second: {fileID: 2100000, guid: 39e7a54f9ab1aba4795c3834e465513f, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

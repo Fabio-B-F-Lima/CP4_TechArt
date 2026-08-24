@@ -3,7 +3,27 @@ guid: c1818228abf748d438665dad37d7e609
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wicker010B
+    second: {fileID: 2100000, guid: 70f1b4f580b35e246b562bf4c03af641, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood006
+    second: {fileID: 2100000, guid: ddf55001cfb4cd045941e37314b1d70b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass03
+    second: {fileID: 2100000, guid: 05f9973485260dc48bde5380893ef9f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wine-white
+    second: {fileID: 2100000, guid: 6400b530c3f239046a2baae6b34a37e9, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

@@ -3,7 +3,12 @@ guid: 1bb3ae905814f4143a832f2897fbff46
 ModelImporter:
   serializedVersion: 24501
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GlazedTerracotta001
+    second: {fileID: 2100000, guid: 3fb6531aced1d0a4cb09a756149f2364, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
